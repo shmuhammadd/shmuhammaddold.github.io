@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Shamsuddeen Hassan Muhammad # Website name
+title: Shamsuddeen Muhammad # Website name
 baseURL: 'https://shmuhammad.github.io/' # Website URL
 
 ############################
