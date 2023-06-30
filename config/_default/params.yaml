@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: Copyright © {year} Shamsuddeen Hassan Muhammad. This work is licensed under {license}'
+    notice: 'Copyright © {year} Shamsuddeen Hassan Muhammad. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/shmuhammadd/shmuhammadd.github.io'
     content_dir: content
     branch: main
   avatar:
@@ -118,3 +118,4 @@ security:
 icon.pack:
   ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
 
+show_related: true
