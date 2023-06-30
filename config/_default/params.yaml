@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: Copyright © {year} Shamsuddeen Hassan Muhammad. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -66,7 +66,7 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
@@ -114,3 +114,7 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+icon.pack:
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
+
