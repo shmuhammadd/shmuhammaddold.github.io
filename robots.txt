@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://shmuhammad.github.io/sitemap.xml
+Sitemap: https://shmuhammadd.github.io/sitemap.xml
