@@ -98,9 +98,8 @@ I am a PhD candidate at the [MAPi](https://mapi.map.edu.pt/pages/1) joint Doctor
 I received a Master’s degree from the University of Manchester, UK, and a Bachelor’s Degree from Bayero University, Kano, Nigeria. I am also a faculty member at the Faculty of Computer Science and Information Technology, Bayero University, Kano, Nigeria. I spend my time reading books and playing table tennis.
 
 
-> News: I am organizing the first SemEval for African low-resource languages.
+> News: We are organizing the first SemEval for African low-resource languages.
 
-> News: I will be joining Google DeepMind.
 
 
 
