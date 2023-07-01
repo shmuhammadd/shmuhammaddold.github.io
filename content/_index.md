@@ -27,41 +27,66 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: CEO
-  #         company: GenCoin
-  #         company_url: ''
-  #         company_logo: org-gc
-  #         location: California
-  #         date_start: '2021-01-01'
-  #         date_end: ''
-  #         description: |2-
-  #             Responsibilities include:
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Doctoral Research Fellow
+          company: Faculty of Science, University of Porto
+          company_url: 'https://www.dcc.fc.up.pt/site'
+          company_logo: org-gc
+          location: Porto
+          date_start: '2020-08-01'
+          date_end: ''
+          # description: |2-
+          #     Responsibilities include:
 
-  #             * Analysing
-  #             * Modelling
-  #             * Deploying
-  #       - title: Professor of Semiconductor Physics
-  #         company: University X
-  #         company_url: ''
-  #         company_logo: org-x
-  #         location: California
-  #         date_start: '2016-01-01'
-  #         date_end: '2020-12-31'
-  #         description: Taught electronic engineering and researched semiconductor physics.
-  #   design:
-  #     columns: '2'
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
+        - title: Researcher
+          company: INESC TEC - Institute for Systems and Computer Engineering, Technology and Science
+          company_url: 'https://www.inesctec.pt/en'
+          company_logo: org-x
+          location: Porto, Portugal
+          date_start: '2019-05-01'
+          date_end: ''
+          # description: Taught electronic engineering and researched semiconductor physics.
+        - title: Co-Founder
+          company: HausaNLP
+          company_url: 'https://hausanlp.github.io'
+          company_logo: org-x
+          location: Nigeria
+          date_start: '2020-02-12'
+        - title: Co-Founder
+          company: Arewa Data Science Academy
+          company_url: 'https://arewadatascience.org'
+          company_logo: org-x
+          location: Nigeria
+          date_start: '2021-03-05'
+        - title: Lecturer
+          company: Bayero University , Kano
+          company_url: 'https://www.buk.edu.ng/'
+          company_logo: org-x
+          location: Kano, Nigeria
+          date_start: '2012-04-12'
+        - title: Lecturer
+          company: Saadatu Rimi College of Education
+          company_url: ''
+          company_logo: org-x
+          location: Kano States
+          date_start: '2010-10-01'
+          date_end: '2012-04-02'
+    design:
+      columns: '2'
   # - block: collection
   #   id: posts
   #   content:

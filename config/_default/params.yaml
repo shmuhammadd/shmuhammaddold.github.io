@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: L
+  font_size: m
 
 # SEO
 
@@ -34,7 +34,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -109,6 +109,9 @@ extensions:
   academicons:
     enable: true
 
+extensions:
+  academicons:
+    enable: true
 # Security
 
 security:
