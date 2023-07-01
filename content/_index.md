@@ -222,4 +222,10 @@ sections:
         #   captcha: false
     design:
       columns: '2'
+  # - block: Note
+  #   id: notes
+  #   content:
+  #     title: Note
+  #     subtitle:
+  #     text: |-
 ---
