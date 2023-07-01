@@ -29,10 +29,10 @@ bio: My research interests include Natural language processing, machine learning
 interests:
 - Natural Language Processing
 - Machine Learning
+- Language Modelling
 - Sentiment Analysis
 - Hate Speech Detection
 - Emotion Analysis
-- Low-resource NLP
 - Data Science for Social Good
 
 
