@@ -24,12 +24,19 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Natural language processing, machine learning and deep learning.
 
+
 # Interests to show in About widget
 interests:
 - Natural Language Processing
 - Machine Learning
 - Sentiment Analysis
-- Low-resource language
+- Hate Speech Detection
+- Emotion Analysis
+- Low-resource NLP
+- Data Science for Social Good
+
+
+
 
 
 # Education to show in About widget
@@ -92,6 +99,9 @@ I received a Master’s degree from the University of Manchester, UK, and a Bach
 
 
 > News: I am organizing the first SemEval for African low-resource languages.
+
+> News: I will be joining Google DeepMind.
+
 
 
 {{< cta cta_text="Visit AfriSenti-SemEval 2023 Shared task 12" cta_link="https://afrisenti-semeval.github.io" cta_new_tab="false" >}}

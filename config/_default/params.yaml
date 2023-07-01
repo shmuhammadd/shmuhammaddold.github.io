@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/shmuhammadd/shmuhammadd.github.io'
+    url: 'https://github.com/shmuhammadd/'
     content_dir: content
     branch: main
   avatar:
@@ -118,4 +118,3 @@ security:
 icon.pack:
   ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
 
-show_related: true
