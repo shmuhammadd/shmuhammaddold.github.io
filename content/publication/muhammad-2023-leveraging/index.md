@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Incremental Approach for Automatic Generation of Domain-Specific Sentiment
-  Lexicon
+title: Leveraging Symbolic and Deep Learning Techniques for Explainable Sentiment
+  Analysis
 subtitle: ''
 summary: ''
 authors:
-- \textbfShamsuddeen Hassan Muhammad
+- Shamsuddeen Hassan \textbfMuhammad
 - Pavel Brazdil
-- Alı́pio Jorge
+- Alípio M. Jorge
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2023-07-01T07:42:54+01:00
+date: '2023-01-01'
+lastmod: 2023-07-01T07:42:51+01:00
 featured: false
 draft: false
 
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-01T06:42:54.821933Z'
+publishDate: '2023-07-01T06:42:51.609512Z'
 publication_types:
-- '1'
+- '3'
 abstract: ''
-publication: '*European Conference on Information Retrieval*'
+publication: '*22nd EPIA Conference on Artificial Intelligence*'
 ---

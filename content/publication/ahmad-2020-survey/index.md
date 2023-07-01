@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Incremental Approach for Automatic Generation of Domain-Specific Sentiment
-  Lexicon
+title: A Survey on Machine Learning Techniques in Movie Revenue Prediction
 subtitle: ''
 summary: ''
 authors:
-- \textbfShamsuddeen Hassan Muhammad
-- Pavel Brazdil
-- Alı́pio Jorge
+- Ibrahim Said Ahmad
+- Azuraliza Abu Bakar
+- Mohd Ridzwan Yaakub
+- Shamsuddeen Hassan \textbfMuhammad
 tags: []
 categories: []
 date: '2020-01-01'
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-01T06:42:54.821933Z'
+publishDate: '2023-07-01T06:42:54.404372Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*European Conference on Information Retrieval*'
+publication: '*SN Computer Science*'
 ---

@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Incremental Approach for Automatic Generation of Domain-Specific Sentiment
-  Lexicon
+title: 'Massive open online courses: awareness, adoption, benefits and challenges
+  in Sub-Saharan Africa'
 subtitle: ''
 summary: ''
 authors:
-- \textbfShamsuddeen Hassan Muhammad
-- Pavel Brazdil
-- Alı́pio Jorge
+- SH \textbfMuhammad
+- A Mustapha
+- K Haruna
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2023-07-01T07:42:54+01:00
+date: '2016-01-01'
+lastmod: 2023-07-01T07:42:55+01:00
 featured: false
 draft: false
 
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-01T06:42:54.821933Z'
+publishDate: '2023-07-01T06:42:55.247671Z'
 publication_types:
-- '1'
+- '2'
 abstract: ''
-publication: '*European Conference on Information Retrieval*'
+publication: '*International Journal of ICT and Managemant*'
 ---

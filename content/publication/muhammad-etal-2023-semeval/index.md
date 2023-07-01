@@ -1,18 +1,24 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Incremental Approach for Automatic Generation of Domain-Specific Sentiment
-  Lexicon
+title: 'SemEval 2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)'
 subtitle: ''
 summary: ''
 authors:
-- \textbfShamsuddeen Hassan Muhammad
-- Pavel Brazdil
-- Alı́pio Jorge
+- Shamsuddeen \textbfMuhammad
+- Idris Abdulmumin
+- Seid Muhie Yimam
+- David Ifeoluwa Adelani
+- Ibrahim Sa'id Ahmad
+- Nedjma Ousidhoum
+- Abinew Ali Ayele
+- Saif M. Mohammad
+- Meriem Beloucif
+- Sebastian Ruder
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2023-07-01T07:42:54+01:00
+date: '2023-07-01'
+lastmod: 2023-07-01T07:42:53+01:00
 featured: false
 draft: false
 
@@ -30,9 +36,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-01T06:42:54.821933Z'
+publishDate: '2023-07-01T06:42:53.696122Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*European Conference on Information Retrieval*'
+publication: '*Proceedings of the 17th International Workshop on Semantic Evaluation
+  (SemEval-2023)*'
+links:
+- name: URL
+  url: https://arxiv.org/abs/2304.06845
 ---

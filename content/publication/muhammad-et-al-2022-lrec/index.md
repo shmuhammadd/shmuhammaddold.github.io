@@ -1,18 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Incremental Approach for Automatic Generation of Domain-Specific Sentiment
-  Lexicon
+title: 'NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment
+  Analysis'
 subtitle: ''
 summary: ''
 authors:
 - \textbfShamsuddeen Hassan Muhammad
+- David Ifeoluwa Adelani
+- Sebastian Ruder
+- Ibrahim Sa’id Ahmad
+- Idris Abdulmumin
+- Bello Shehu Bello
+- Monojit Choudhury
+- Chris Chinenye Emezue
+- Saheed Salahudeen Abdullahi
+- Anuoluwapo Aremu
 - Pavel Brazdil
-- Alı́pio Jorge
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2023-07-01T07:42:54+01:00
+date: '2022-06-01'
+lastmod: 2023-07-01T07:42:52+01:00
 featured: false
 draft: false
 
@@ -30,9 +38,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-01T06:42:54.821933Z'
+publishDate: '2023-07-01T06:42:52.115214Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*European Conference on Information Retrieval*'
+publication: '*Proceedings of the Language Resources and Evaluation Conference*'
+links:
+- name: URL
+  url: https://aclanthology.org/2022.lrec-1.63
 ---

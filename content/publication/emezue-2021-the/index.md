@@ -1,18 +1,28 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Incremental Approach for Automatic Generation of Domain-Specific Sentiment
-  Lexicon
+title: 'The African Stopwords Project: Curating Stopwords for African Languages'
 subtitle: ''
 summary: ''
 authors:
-- \textbfShamsuddeen Hassan Muhammad
-- Pavel Brazdil
-- Alı́pio Jorge
+- Chris Chinenye Emezue
+- Hellina Hailu Nigatu
+- Cynthia Thinwa
+- Lerato Louis
+- Idris Abdulmumin
+- Samuel Gbenga Oyerinde
+- Benjamin Ayoade Ajibade
+- Helper Zhou
+- Emeka Felix Onwuegbuzia
+- Handel Chiagozie Emezue
+- Ifeoluwatayo Adeseye Ige
+- Atnafu Lambebo Tonja
+- Chiamaka Ijeoma Chukwuneke and\textbf Shamsuddeen Hassan Muhammad
+- Olanrewaju Samuel
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2023-07-01T07:42:54+01:00
+date: '2022-01-01'
+lastmod: 2023-07-01T07:42:52+01:00
 featured: false
 draft: false
 
@@ -30,9 +40,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-01T06:42:54.821933Z'
+publishDate: '2023-07-01T06:42:52.526775Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*European Conference on Information Retrieval*'
+publication: '*3rd Workshop on African Natural Language Processing*'
+links:
+- name: URL
+  url: https://openreview.net/forum?id=B0GEqcGV8-5
 ---

@@ -1,17 +1,34 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Incremental Approach for Automatic Generation of Domain-Specific Sentiment
-  Lexicon
+title: 'BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech
+  corpus'
 subtitle: ''
 summary: ''
 authors:
+- Josh Meyer
+- David Adelani
+- Edresson Casanova
+- Alp Öktem
+- Daniel Whitenack
+- Julian Weber
+- Salomon KABONGO KABENAMUALU
+- Elizabeth Salesky
+- Iroro Orife
+- Colin Leong
+- Perez Ogayo
+- Chris Chinenye Emezue
+- Jonathan Mukiibi
+- Salomey Osei
+- Apelete AGBOLO
+- Victor Akinode
+- Bernard Opoku
+- Olanrewaju Samuel
+- Jesujoba Alabi
 - \textbfShamsuddeen Hassan Muhammad
-- Pavel Brazdil
-- Alı́pio Jorge
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2022-01-01'
 lastmod: 2023-07-01T07:42:54+01:00
 featured: false
 draft: false
@@ -30,9 +47,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-01T06:42:54.821933Z'
+publishDate: '2023-07-01T06:42:54.684874Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*European Conference on Information Retrieval*'
+publication: '*Interspeech 2022, 23rd Annual Conference of the International Speech
+  Communication Association, Incheon, Korea, 18-22 September 2022*'
+doi: 10.21437/Interspeech.2022-10850
+links:
+- name: URL
+  url: https://doi.org/10.21437/Interspeech.2022-10850
 ---

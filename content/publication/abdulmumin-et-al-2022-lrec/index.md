@@ -1,18 +1,24 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Incremental Approach for Automatic Generation of Domain-Specific Sentiment
-  Lexicon
+title: 'Hausa Visual Genome: A Dataset for Multi-Modal English to Hausa Machine Translation'
 subtitle: ''
 summary: ''
 authors:
-- \textbfShamsuddeen Hassan Muhammad
-- Pavel Brazdil
-- Alı́pio Jorge
+- Idris Abdulmumin
+- Satya Ranjan Dash
+- Musa Abdullahi Dawud
+- Shantipriya Parida
+- Shamsuddeen \textbfMuhammad
+- Ibrahim Saâ€™id Ahmad
+- Subhadarshi Panda
+- OndÅ™ej Bojar
+- Bashir Shehu Galadanci
+- Bello Shehu Bello
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2023-07-01T07:42:54+01:00
+date: '2022-06-01'
+lastmod: 2023-07-01T07:42:52+01:00
 featured: false
 draft: false
 
@@ -30,9 +36,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-01T06:42:54.821933Z'
+publishDate: '2023-07-01T06:42:51.949305Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*European Conference on Information Retrieval*'
+publication: '*Proceedings of the Language Resources and Evaluation Conference*'
+links:
+- name: URL
+  url: https://aclanthology.org/2022.lrec-1.694
 ---
