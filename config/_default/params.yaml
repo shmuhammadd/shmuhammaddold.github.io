@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: 'Copyright © {year} Shamsuddeen Hassan Muhammad. This work is licensed under {license}'
+    notice: ' © {year} Shamsuddeen Hassan Muhammad under {license}'
     license:
       enable: true
       allow_derivatives: false
