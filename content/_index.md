@@ -31,7 +31,7 @@ sections:
     id: news
     content:
        title: News
-       text: |
+       text: |2-
               - [20-21-2] I will be joining the lab
               - [20-21-2] I will be joining the lab
               - [20-21-2] I will be joining the lab
@@ -85,7 +85,7 @@ sections:
         - title: Doctoral Research Fellow
           company: Faculty of Science, University of Porto
           company_url: 'https://www.dcc.fc.up.pt/site'
-          company_logo: org-gc
+          company_logo: logofcs
           location: Porto
           date_start: '2020-08-01'
           date_end: ''
@@ -97,7 +97,7 @@ sections:
         - title: Researcher
           company: INESC TEC - Institute for Systems and Computer Engineering, Technology and Science
           company_url: 'https://www.inesctec.pt/en'
-          company_logo: org-x
+          company_logo: inesclogo
           location: Porto, Portugal
           date_start: '2019-05-01'
           date_end: ''
@@ -105,28 +105,28 @@ sections:
         - title: Co-Founder
           company: HausaNLP
           company_url: 'https://hausanlp.github.io'
-          company_logo: org-x
+          company_logo: hausanlplogo
           location: Nigeria
           date_start: '2020-02-12'
         - title: Co-Founder
           company: Arewa Data Science Academy
           company_url: 'https://arewadatascience.org'
-          company_logo: org-x
+          company_logo: arewads
           location: Nigeria
           date_start: '2021-03-05'
         - title: Lecturer
           company: Bayero University , Kano
           company_url: 'https://www.buk.edu.ng/'
-          company_logo: org-x
+          company_logo: logobuk
           location: Kano, Nigeria
           date_start: '2012-04-12'
-        - title: Lecturer
-          company: Saadatu Rimi College of Education
-          company_url: ''
-          company_logo: org-x
-          location: Kano States
-          date_start: '2010-10-01'
-          date_end: '2012-04-02'
+        # - title: Lecturer
+        #   company: Saadatu Rimi College of Education
+        #   company_url: ''
+        #   company_logo: org-x
+        #   location: Kano States
+        #   date_start: '2010-10-01'
+        #   date_end: '2012-04-02'
     design:
       columns: '2'
   # - block: portfolio

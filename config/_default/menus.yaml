@@ -17,7 +17,7 @@ main:
     url: '#Publications'
     weight: 40
   - name: Notes
-    url: notes/
+    url: docs/
     weight: 50
   - name: Contact
     url: '#contact'
