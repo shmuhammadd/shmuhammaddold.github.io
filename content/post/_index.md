@@ -1,5 +1,5 @@
 ---
-title: News
+title: Post
 cms_exclude: true
 
 # View.
@@ -8,8 +8,3 @@ cms_exclude: true
 #   3 = Card
 view: 2
 ---
-
-*  sss
-*  ccc
-*  ccc
-*  

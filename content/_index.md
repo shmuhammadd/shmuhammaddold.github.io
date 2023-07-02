@@ -54,97 +54,33 @@ sections:
     design:
       columns: '2'
       view: citation
-  # - block: news
-  #   id: news
-  #   content:
-  #      title : News
-  #   design:
-  #      view: compact
-  #      columns: '1'
-  # - block: collection
-  #   id: news
-  #   content:
-  #     title: News
-  #     subtitle: ''
-  #     text: ''
-  #     # Choose how many pages you would like to display (0 = all pages)
-  #     count: 10
-  #     # Filter on criteria
-  #     filters:
-  #       folders:
-  #         - news
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     # Choose how many pages you would like to offset by
-  #     offset: 0
-  #     # Page order: descending (desc) or ascending (asc) date.
-  #     order: desc
-  #   design:
-  #     # Choose a layout view
-  #     view: 1
-  #     columns: '2'
-  #     link: false
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: Doctoral Research Fellow
-  #         company: Faculty of Science, University of Porto
-  #         company_url: 'https://www.dcc.fc.up.pt/site'
-  #         company_logo: logofcs
-  #         location: Porto
-  #         date_start: '2020-08-01'
-  #         date_end: ''
-  #         # description: |2-
-  #         #     Responsibilities include:
-  #         #     * Analysing
-  #         #     * Modelling
-  #         #     * Deploying
-  #       - title: Researcher
-  #         company: INESC TEC - Institute for Systems and Computer Engineering, Technology and Science
-  #         company_url: 'https://www.inesctec.pt/en'
-  #         company_logo: inesclogo
-  #         location: Porto, Portugal
-  #         date_start: '2019-05-01'
-  #         date_end: ''
-  #         # description: Taught electronic engineering and researched semiconductor physics.
-  #       - title: Co-Founder
-  #         company: HausaNLP
-  #         company_url: 'https://hausanlp.github.io'
-  #         company_logo: hausanlplogo
-  #         location: Nigeria
-  #         date_start: '2020-02-12'
-  #       - title: Co-Founder
-  #         company: Arewa Data Science Academy
-  #         company_url: 'https://arewadatascience.org'
-  #         company_logo: arewads
-  #         location: Nigeria
-  #         date_start: '2021-03-05'
-  #       - title: Lecturer
-  #         company: Bayero University , Kano
-  #         company_url: 'https://www.buk.edu.ng/'
-  #         company_logo: logobuk
-  #         location: Kano, Nigeria
-  #         date_start: '2012-04-12'
-  #       # - title: Lecturer
-  #       #   company: Saadatu Rimi College of Education
-  #       #   company_url: ''
-  #       #   company_logo: org-x
-  #       #   location: Kano States
-  #       #   date_start: '2010-10-01'
-  #       #   date_end: '2012-04-02'
-  #   design:
-  #     columns: '2'
+  - block: collection
+    id: posts
+    content:
+      title: Recent Posts
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        folders:
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: compact
+      columns: '2'
   # # - block: portfolio
   # #   id: projects
   # #   content:
