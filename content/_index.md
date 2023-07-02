@@ -42,6 +42,17 @@ sections:
               - [2023-05-05] Our paper: [Afrisenti:A Twitter Sentiment Analysis Benchmark for African Languages ](https://arxiv.org/pdf/2302.08956.pdf) won the best paper award at AfricaNLP2023
     design:
        columns: '2'
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   # - block: news
   #   id: news
   #   content:
@@ -180,6 +191,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
+
   - block: collection
     id: Publications
     content:
