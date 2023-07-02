@@ -31,11 +31,15 @@ sections:
     id: news
     content:
        title: News
-       text: |2-
-              - [20-21-2] I will be joining the lab
-              - [20-21-2] I will be joining the lab
-              - [20-21-2] I will be joining the lab
-              - [20-21-2] I will be joining the lab
+       text: |
+              - [2023-09-04] I will present our paper at EPIA2023 (Portuguese Conference on Artificial Intelligence)
+              
+              - [2023-07-04] I will present our paper ([SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)](https://arxiv.org/pdf/2304.06845.pdf)) at SemEval2023 Workshop Co-located with ACL2023 Toronto Canada.
+              
+              - [2023-06-11] I will attend Africa Arrtifical Intelligence Conference Rewanda
+              
+              - [2023-03-29] I submitted my PhD thesis, waiting for defense
+              - [2023-05-05] Our paper: [Afrisenti:A Twitter Sentiment Analysis Benchmark for African Languages ](https://arxiv.org/pdf/2302.08956.pdf) won the best paper award at AfricaNLP2023
     design:
        columns: '2'
   # - block: news
@@ -70,69 +74,69 @@ sections:
   #     view: 1
   #     columns: '2'
   #     link: false
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Doctoral Research Fellow
-          company: Faculty of Science, University of Porto
-          company_url: 'https://www.dcc.fc.up.pt/site'
-          company_logo: logofcs
-          location: Porto
-          date_start: '2020-08-01'
-          date_end: ''
-          # description: |2-
-          #     Responsibilities include:
-          #     * Analysing
-          #     * Modelling
-          #     * Deploying
-        - title: Researcher
-          company: INESC TEC - Institute for Systems and Computer Engineering, Technology and Science
-          company_url: 'https://www.inesctec.pt/en'
-          company_logo: inesclogo
-          location: Porto, Portugal
-          date_start: '2019-05-01'
-          date_end: ''
-          # description: Taught electronic engineering and researched semiconductor physics.
-        - title: Co-Founder
-          company: HausaNLP
-          company_url: 'https://hausanlp.github.io'
-          company_logo: hausanlplogo
-          location: Nigeria
-          date_start: '2020-02-12'
-        - title: Co-Founder
-          company: Arewa Data Science Academy
-          company_url: 'https://arewadatascience.org'
-          company_logo: arewads
-          location: Nigeria
-          date_start: '2021-03-05'
-        - title: Lecturer
-          company: Bayero University , Kano
-          company_url: 'https://www.buk.edu.ng/'
-          company_logo: logobuk
-          location: Kano, Nigeria
-          date_start: '2012-04-12'
-        # - title: Lecturer
-        #   company: Saadatu Rimi College of Education
-        #   company_url: ''
-        #   company_logo: org-x
-        #   location: Kano States
-        #   date_start: '2010-10-01'
-        #   date_end: '2012-04-02'
-    design:
-      columns: '2'
-  # - block: portfolio
-  #   id: projects
+  # - block: experience
   #   content:
-  #     title: Projects
+  #     title: Experience
+  #     # Date format for experience
+  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: Doctoral Research Fellow
+  #         company: Faculty of Science, University of Porto
+  #         company_url: 'https://www.dcc.fc.up.pt/site'
+  #         company_logo: logofcs
+  #         location: Porto
+  #         date_start: '2020-08-01'
+  #         date_end: ''
+  #         # description: |2-
+  #         #     Responsibilities include:
+  #         #     * Analysing
+  #         #     * Modelling
+  #         #     * Deploying
+  #       - title: Researcher
+  #         company: INESC TEC - Institute for Systems and Computer Engineering, Technology and Science
+  #         company_url: 'https://www.inesctec.pt/en'
+  #         company_logo: inesclogo
+  #         location: Porto, Portugal
+  #         date_start: '2019-05-01'
+  #         date_end: ''
+  #         # description: Taught electronic engineering and researched semiconductor physics.
+  #       - title: Co-Founder
+  #         company: HausaNLP
+  #         company_url: 'https://hausanlp.github.io'
+  #         company_logo: hausanlplogo
+  #         location: Nigeria
+  #         date_start: '2020-02-12'
+  #       - title: Co-Founder
+  #         company: Arewa Data Science Academy
+  #         company_url: 'https://arewadatascience.org'
+  #         company_logo: arewads
+  #         location: Nigeria
+  #         date_start: '2021-03-05'
+  #       - title: Lecturer
+  #         company: Bayero University , Kano
+  #         company_url: 'https://www.buk.edu.ng/'
+  #         company_logo: logobuk
+  #         location: Kano, Nigeria
+  #         date_start: '2012-04-12'
+  #       # - title: Lecturer
+  #       #   company: Saadatu Rimi College of Education
+  #       #   company_url: ''
+  #       #   company_logo: org-x
+  #       #   location: Kano States
+  #       #   date_start: '2010-10-01'
+  #       #   date_end: '2012-04-02'
+  #   design:
+  #     columns: '2'
+  # # - block: portfolio
+  # #   id: projects
+  # #   content:
+  # #     title: Projects
   #     filters:
   #       folders:
   #         - project
@@ -207,6 +211,65 @@ sections:
   #   design:
   #     columns: '2'
   #   2: formspree.io
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Doctoral Research Fellow
+          company: Faculty of Science, University of Porto
+          company_url: 'https://www.dcc.fc.up.pt/site'
+          company_logo: logofcs
+          location: Porto
+          date_start: '2020-08-01'
+          date_end: ''
+          # description: |2-
+          #     Responsibilities include:
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
+        - title: Researcher
+          company: INESC TEC - Institute for Systems and Computer Engineering, Technology and Science
+          company_url: 'https://www.inesctec.pt/en'
+          company_logo: inesclogo
+          location: Porto, Portugal
+          date_start: '2019-05-01'
+          date_end: ''
+          # description: Taught electronic engineering and researched semiconductor physics.
+        - title: Co-Founder
+          company: HausaNLP
+          company_url: 'https://hausanlp.github.io'
+          company_logo: hausanlplogo
+          location: Nigeria
+          date_start: '2020-02-12'
+        - title: Co-Founder
+          company: Arewa Data Science Academy
+          company_url: 'https://arewadatascience.org'
+          company_logo: arewads
+          location: Nigeria
+          date_start: '2021-03-05'
+        - title: Lecturer
+          company: Bayero University , Kano
+          company_url: 'https://www.buk.edu.ng/'
+          company_logo: logobuk
+          location: Kano, Nigeria
+          date_start: '2012-04-12'
+        # - title: Lecturer
+        #   company: Saadatu Rimi College of Education
+        #   company_url: ''
+        #   company_logo: org-x
+        #   location: Kano States
+        #   date_start: '2010-10-01'
+        #   date_end: '2012-04-02'
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:

@@ -15,10 +15,10 @@ main:
     weight: 30
   - name: Publications
     url: '#Publications'
-    weight: 40
-  - name: Notes
+    weight: 30
+  - name: Notes/Tutorial
     url: docs/
-    weight: 50
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 60
