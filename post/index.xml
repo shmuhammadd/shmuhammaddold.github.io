@@ -1,1 +1,122 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Shamsuddeen Hassan Muhammad</title><link>https://shmuhammadd.github.io/post/</link><atom:link href="https://shmuhammadd.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate><image><url>https://shmuhammadd.github.io/media/icon_hu3e0f2d5aa6180df20bb553ed5c6fa57b_171034_512x512_fill_lanczos_center_3.png</url><title>News</title><link>https://shmuhammadd.github.io/post/</link></image><item><title>Writing technical content in Markdown</title><link>https://shmuhammadd.github.io/post/writing-technical-content/</link><pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate><guid>https://shmuhammadd.github.io/post/writing-technical-content/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Post | Shamsuddeen Hassan Muhammad</title><link>https://shmuhammadd.github.io/post/</link><atom:link href="https://shmuhammadd.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Post</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate><image><url>https://shmuhammadd.github.io/media/icon_hu3e0f2d5aa6180df20bb553ed5c6fa57b_171034_512x512_fill_lanczos_center_3.png</url><title>Post</title><link>https://shmuhammadd.github.io/post/</link></image><item><title>Why you should blog</title><link>https://shmuhammadd.github.io/post/writing-technical-content/</link><pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate><guid>https://shmuhammadd.github.io/post/writing-technical-content/</guid><description>&lt;blockquote>
+&lt;p>My mentor, &lt;a href="https://ruder.io" target="_blank" rel="noopener">Sebastian Ruder&lt;/a> advises PhD students to write blogs and has this to say: &amp;ldquo;Having a blog is the single thing that has led to the most positive interactions throughout my PhD.&amp;rdquo;&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/p>
+&lt;/blockquote>
+&lt;p>Recently, I read a blog post by the co-founder of fast.ai, Rachel Thomas, &amp;ldquo;Why you should write blogpost&amp;rdquo;&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup> and watched an RStudio talk by David Robinson, &amp;ldquo;The unreasonable effectiveness of public work.&amp;rdquo;&lt;sup id="fnref:3">&lt;a href="#fn:3" class="footnote-ref" role="doc-noteref">3&lt;/a>&lt;/sup> Both Rachel and David convinced me about the benefits of writing a blog post. Therefore, I braced up to start blogging consistently at least once fortnightly. As a Ph.D. student, writing habits will strongly build my writing and creativity muscles to the max.&lt;/p>
+&lt;p>
+&lt;figure id="figure-lets-try">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Lets try" srcset="
+/post/writing-technical-content/lets-try_huba8addff2c221e09efbd27d9aa497140_1430044_d600df9bc694c84690a977add617f748.webp 400w,
+/post/writing-technical-content/lets-try_huba8addff2c221e09efbd27d9aa497140_1430044_61e2b184bf457703e8dbf98c97997fe4.webp 760w,
+/post/writing-technical-content/lets-try_huba8addff2c221e09efbd27d9aa497140_1430044_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://shmuhammadd.github.io/post/writing-technical-content/lets-try_huba8addff2c221e09efbd27d9aa497140_1430044_d600df9bc694c84690a977add617f748.webp"
+width="551"
+height="504"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Lets try
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;p>There are many reasons one writes a blog. For me, below are only five reasons I think a blog will help me along the way of building my career.&lt;/p>
+&lt;h2 id="deliberate-practice">Deliberate practice&lt;/h2>
+&lt;p>Deliberate practice is a systematic, focused, consistent, goal-oriented training that builds expertise or improves performance.&lt;sup id="fnref:4">&lt;a href="#fn:4" class="footnote-ref" role="doc-noteref">4&lt;/a>&lt;/sup>&lt;sup id="fnref:5">&lt;a href="#fn:5" class="footnote-ref" role="doc-noteref">5&lt;/a>&lt;/sup> Building expertise in any field is not a marathon; it is a series of Sprints. Evidence has shown that experts or geniuses are always made, not born&lt;sup id="fnref:6">&lt;a href="#fn:6" class="footnote-ref" role="doc-noteref">6&lt;/a>&lt;/sup> &lt;sup id="fnref:7">&lt;a href="#fn:7" class="footnote-ref" role="doc-noteref">7&lt;/a>&lt;/sup>. For example, bodybuilders, musicians, and footballers consistently practice to achieve mastery. No one becomes an expert from day one. The same is also true for writing and any other skills. Consistent writing, even small content but engaging and informative, will improve your writing skills. As we fondly say, &amp;ldquo;practice makes perfect.&amp;rdquo; Consistent practice allows one to do a task while thinking about other things. For example, a professional orator can deliver an excellent speech without reading from any single note. Stopping to think about the task can sometimes result in a flawless performance. People refer to this performance as being &amp;ldquo;in the zone. Aristotle said: &amp;ldquo;We are what we repeatedly do. Excellence, then, is not an act, but a habit.&amp;rdquo; &lt;/p>
+&lt;p>Deliberate practice does not make what we learn easier; it changes the brain (Myelination). This concept is notably expressed as &amp;ldquo;&lt;em>cells that fire together, wire together&lt;/em>.&amp;rdquo; Sometimes, we reach an &amp;ldquo;aha!&amp;rdquo; moment when learning difficult stuff - that is when someone has been struggling to understand a concept, and it suddenly becomes apparent - the clarity does not come out of nowhere.&lt;/p>
+&lt;blockquote>
+&lt;p>Rather, it results from a steady accumulation of information. That&amp;rsquo;s because adding additional information opens up memories associated with the task. Once those memory neurons are active, they can form new connections. They also can form stronger connections within an existing network. Over time, your level of understanding increases until you suddenly &amp;ldquo;get&amp;rdquo; it &lt;sup id="fnref:8">&lt;a href="#fn:8" class="footnote-ref" role="doc-noteref">8&lt;/a>&lt;/sup>.&lt;/p>
+&lt;/blockquote>
+&lt;p>Therefore, this blog will serve as a way for me to do deliberate practices of many skills (writing, machine learning, visualization, python, r and, many more)&lt;/p>
+&lt;h2 id="repository-for-my-future-self">Repository for my future self&lt;/h2>
+&lt;p>I am absent-minded. I write code and forget how I did it or google the same thing many times So, anything that I often google or write a complex program, I will write a blog post on it. That way, I will refer to it. Hadley Wickham inspired me in his book R for Data Science; he said, if you write the same code three times, then, you write a function for that code. Hadley&amp;rsquo;s idea was adapted from code refactoring rule of thumb (Rule of three), which states that &amp;ldquo;two instances of similar code don&amp;rsquo;t require refactoring, but when similar code is used three times, it should be extracted into a new procedure.&amp;rdquo;&lt;sup id="fnref:9">&lt;a href="#fn:9" class="footnote-ref" role="doc-noteref">9&lt;/a>&lt;/sup>&lt;/p>
+&lt;p>
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="" srcset="
+/post/writing-technical-content/write-blog_hu7af7cdaf3798118acef0983bbe83047a_60534_164ca2de015d33a5af6385a24977d849.webp 400w,
+/post/writing-technical-content/write-blog_hu7af7cdaf3798118acef0983bbe83047a_60534_acb96862d525f31bd1e717d6796d2fe4.webp 760w,
+/post/writing-technical-content/write-blog_hu7af7cdaf3798118acef0983bbe83047a_60534_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://shmuhammadd.github.io/post/writing-technical-content/write-blog_hu7af7cdaf3798118acef0983bbe83047a_60534_164ca2de015d33a5af6385a24977d849.webp"
+width="601"
+height="303"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/p>
+&lt;h2 id="build-public-profile-and-network">Build public profile and network&lt;/h2>
+&lt;p>Putting your work or your skills to the public is a way to put your best foot forwards. Public work can be anything like Tweets, Blog post, GitHub Repo, or Book. Like-minded people with related interests may find your blog post, network with you, and give you feedback. Many opportunities may come in your future career from the network you build. An example of this was when David Robinson answered a question on Stack Overflow&lt;sup id="fnref:10">&lt;a href="#fn:10" class="footnote-ref" role="doc-noteref">10&lt;/a>&lt;/sup>, Stack Overflow engineer saw the brilliant answer and hired him (his first job at Stack Overflow). So, a blog allows one to showcase his skills, and other people can benefit from it.&lt;/p>
+&lt;p>
+&lt;figure id="figure-tweet-blog-book">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Tweet transformed to a blog and book." srcset="
+/post/writing-technical-content/book-davide_huba8addff2c221e09efbd27d9aa497140_68575_deadfdc286eb902f35d556217e3c7df3.webp 400w,
+/post/writing-technical-content/book-davide_huba8addff2c221e09efbd27d9aa497140_68575_07769f1d5be75c6d9b8757bc1690cb0f.webp 760w,
+/post/writing-technical-content/book-davide_huba8addff2c221e09efbd27d9aa497140_68575_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://shmuhammadd.github.io/post/writing-technical-content/book-davide_huba8addff2c221e09efbd27d9aa497140_68575_deadfdc286eb902f35d556217e3c7df3.webp"
+width="680"
+height="357"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Tweet-Blog-Book
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;h2 id="learning-by-teaching-protégé-effect">Learning by teaching (protégé effect)&lt;/h2>
+&lt;p>Robert Heinlein said, when one teaches, two learn. It means whenever you teach or explain a concept to someone, you will learn something from it or get a better insight and ultimately reach the &amp;ldquo;aha&amp;rdquo; moment. Therefore, writing a good tutorial about a brain-bending concept without dumbing it down is a great way to learn and increase visibility. As Einstein says, &amp;ldquo;If you can&amp;rsquo;t explain it simply, you don&amp;rsquo;t understand it well enough.&amp;rdquo; A study&lt;sup id="fnref:11">&lt;a href="#fn:11" class="footnote-ref" role="doc-noteref">11&lt;/a>&lt;/sup> found that when students teach the lesson&amp;rsquo;s content (active learning), they develop a more in-depth and longer-lasting understanding of the material than students who do not teach it( passive learning). Therefore, this blog will allow me to write my research and summary of papers and man more. The approach of learning by teaching was widely known as Feynman learning technique&lt;sup id="fnref:12">&lt;a href="#fn:12" class="footnote-ref" role="doc-noteref">12&lt;/a>&lt;/sup>&lt;/p>
+&lt;p>
+&lt;figure id="figure-feyman-learning-techniques">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Feyman Learning techniques" srcset="
+/post/writing-technical-content/feyman_hu37a2172e3b072d775ccc00842478db12_40349_acf79e98e32fe3b98db0051688b9063e.webp 400w,
+/post/writing-technical-content/feyman_hu37a2172e3b072d775ccc00842478db12_40349_2cc8fa5fe675f12a54bcfe29bb139600.webp 760w,
+/post/writing-technical-content/feyman_hu37a2172e3b072d775ccc00842478db12_40349_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://shmuhammadd.github.io/post/writing-technical-content/feyman_hu37a2172e3b072d775ccc00842478db12_40349_acf79e98e32fe3b98db0051688b9063e.webp"
+width="480"
+height="480"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Feyman Learning techniques
+&lt;/figcaption>&lt;/figure>
+&lt;/p>
+&lt;h2 id="sharemy-experience-and-opportunites">Share my experience and opportunites:&lt;/h2>
+&lt;p>I naturally love to share my experience and other opportunities with people I know. Therefore, a blog post will serve as a way to share important resources that I come across and find useful. This will benefit a wider audience.&lt;/p>
+&lt;style>
+body {
+text-align: justify}
+&lt;/style>&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>&lt;a href="https://ruder.io/10-tips-for-research-and-a-phd/index.html#6-write-a-blog-" target="_blank" rel="noopener">10 Tips for Research and a PhD&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>&lt;a href="https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045" target="_blank" rel="noopener">Why you (yes, you) should blog&lt;/a>&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:3">
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=th79W4rv67g&amp;amp;ab_channel=RStudio" target="_blank" rel="noopener">&amp;ldquo;The unreasonable effectiveness of public work&lt;/a>&amp;#160;&lt;a href="#fnref:3" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:4">
+&lt;p>&lt;a href="https://jamesclear.com/deliberate-practice-myth" target="_blank" rel="noopener">&lt;strong>T&lt;/strong>he Myth and Magic of Deliberate Practice&lt;/a>&amp;#160;&lt;a href="#fnref:4" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:5">
+&lt;p>&lt;a href="https://jamesclear.com/atomic-habits" target="_blank" rel="noopener">Atomic Habits: Tiny Changes, Remarkable Results.&lt;/a>&amp;#160;&lt;a href="#fnref:5" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:6">
+&lt;p>&lt;a href="https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_Polg%C3%A1r" target="_blank" rel="noopener">Geniuses are made, not born.&lt;/a>&amp;#160;&lt;a href="#fnref:6" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:7">
+&lt;p>&lt;a href="https://hbr.org/2007/07/the-making-of-an-expert" title="The making of an expert from Havard Business Review" target="_blank" rel="noopener">The making of an expert&lt;/a>&amp;#160;&lt;a href="#fnref:7" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:8">
+&lt;p>&lt;a href="https://www.sciencenewsforstudents.org/article/learning-rewires-brain" target="_blank" rel="noopener">Learning rewires the brain&lt;/a>&amp;#160;&lt;a href="#fnref:8" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:9">
+&lt;p>&lt;a href="https://en.wikipedia.org/wiki/Rule_of_three_%28computer_programming%29#" target="_blank" rel="noopener">Rule of three&lt;/a>&amp;#160;&lt;a href="#fnref:9" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:10">
+&lt;p>&lt;a href="https://stats.stackexchange.com/questions/47771/what-is-the-intuition-behind-beta-distribution" target="_blank" rel="noopener">David Robinson&amp;rsquo;s Stackoverflow Answer that landed him job&lt;/a>&amp;#160;&lt;a href="#fnref:10" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:11">
+&lt;p>&lt;a href="https://www.edsurge.com/news/2019-01-24-want-students-to-remember-what-they-learn-have-them-teach-it" target="_blank" rel="noopener">Want Students to Remember What They Learn? Have Them Teach It&lt;/a>&amp;#160;&lt;a href="#fnref:11" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:12">
+&lt;p>&lt;a href="https://fs.blog/2012/04/feynman-technique/" target="_blank" rel="noopener">The Feynman Technique: The Best Way to Learn Anything&lt;/a>&amp;#160;&lt;a href="#fnref:12" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item></channel></rss>
