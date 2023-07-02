@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Shamsuddeen Hassan Muhammad</title><link>https://shmuhammadd.github.io/news.ignored/</link><atom:link href="https://shmuhammadd.github.io/news.ignored/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><image><url>https://shmuhammadd.github.io/media/icon_hu3e0f2d5aa6180df20bb553ed5c6fa57b_171034_512x512_fill_lanczos_center_3.png</url><title>News</title><link>https://shmuhammadd.github.io/news.ignored/</link></image><item><title>I will be attending conference</title><link>https://shmuhammadd.github.io/news.ignored/2021-01-01/news1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://shmuhammadd.github.io/news.ignored/2021-01-01/news1/</guid><description/></item><item><title>I will be attending conference</title><link>https://shmuhammadd.github.io/news.ignored/2021-01-02-copy-2/news1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://shmuhammadd.github.io/news.ignored/2021-01-02-copy-2/news1/</guid><description/></item><item><title>I will be attending conference</title><link>https://shmuhammadd.github.io/news.ignored/2021-01-02-copy/news1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://shmuhammadd.github.io/news.ignored/2021-01-02-copy/news1/</guid><description/></item><item><title>I will be attending conference</title><link>https://shmuhammadd.github.io/news.ignored/2021-01-02/news1/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://shmuhammadd.github.io/news.ignored/2021-01-02/news1/</guid><description/></item><item><title/><link>https://shmuhammadd.github.io/news.ignored/feautured/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://shmuhammadd.github.io/news.ignored/feautured/</guid><description>&lt;p>Title: News&lt;/p>
+&lt;ul>
+&lt;li>block: collection
+id: news
+content:
+title: News
+subtitle: &amp;rsquo;'
+text: &amp;rsquo;'
+# Choose how many pages you would like to display (0 = all pages)
+count: 10
+# Filter on criteria
+filters:
+folders: -.
+exclude_featured: false
+exclude_future: false
+exclude_past: false
+publication_type: &amp;quot;&amp;quot;
+# Choose how many pages you would like to offset by
+offset: 0
+# Page order: descending (desc) or ascending (asc) date.
+order: desc
+design:
+view: 1
+columns: &amp;lsquo;2&amp;rsquo;
+link: false&lt;/li>
+&lt;/ul></description></item></channel></rss>
