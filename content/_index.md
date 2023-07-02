@@ -27,6 +27,49 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
+  - block: markdown
+    id: news
+    content:
+       title: News
+       text: |
+              - [20-21-2] I will be joining the lab
+              - [20-21-2] I will be joining the lab
+              - [20-21-2] I will be joining the lab
+              - [20-21-2] I will be joining the lab
+    design:
+       columns: '2'
+  # - block: news
+  #   id: news
+  #   content:
+  #      title : News
+  #   design:
+  #      view: compact
+  #      columns: '1'
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: News
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 10
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - news
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: 1
+  #     columns: '2'
+  #     link: false
   - block: experience
     content:
       title: Experience
@@ -48,7 +91,6 @@ sections:
           date_end: ''
           # description: |2-
           #     Responsibilities include:
-
           #     * Analysing
           #     * Modelling
           #     * Deploying
@@ -87,33 +129,6 @@ sections:
           date_end: '2012-04-02'
     design:
       columns: '2'
-  # - block: collection
-  #   id: posts
-  #   content:
-  #     title: Recent Posts
-  #     subtitle: ''
-  #     text: ''
-  #     # Choose how many pages you would like to display (0 = all pages)
-  #     count: 5
-  #     # Filter on criteria
-  #     filters:
-  #       folders:
-  #         - post
-  #       author: ""
-  #       category: ""
-  #       tag: ""
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     # Choose how many pages you would like to offset by
-  #     offset: 0
-  #     # Page order: descending (desc) or ascending (asc) date.
-  #     order: desc
-  #   design:
-  #     # Choose a layout view
-  #     view: compact
-  #     columns: '2'
   # - block: portfolio
   #   id: projects
   #   content:
@@ -142,13 +157,14 @@ sections:
   #     # For Showcase view, flip alternate rows?
   #     flip_alt_rows: false
   # - block: markdown
+  #   id: new
   #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
+  #      title: News
+  #      subtitle: ''
+  #      text: |-
+  #        {{< news="news" >}}
   #   design:
-  #     columns: '1'
+  #      columns: '2'
   # - block: collection
   #   id: featured
   #   content:
