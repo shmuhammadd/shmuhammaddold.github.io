@@ -39,7 +39,7 @@ sections:
               - [2023-06-11]: I will attend Africa Arrtifical Intelligence Conference Rewanda
               
               - [2023-05-05]: Our paper: [Afrisenti:A Twitter Sentiment Analysis Benchmark for African Languages ](https://arxiv.org/pdf/2302.08956.pdf) won the best paper award at AfricaNLP2023
-              - [2023-05-02]: Our project [AfiHate](https://github.com/AfriHate/AfriHate) was selected as top [100 list of AI  projects](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjmvNiZ8_D_AhVxTaQEHU0RCykQFnoECBoQAQ&url=https%3A%2F%2Fircai.org%2Fglobal-top-100-outstanding-projects%2Fresults%2F&usg=AOvVaw1wyZ7a53_wi2qDADuN4bFD&opi=89978449) solving problems related to the 17 United Nations Sustainable Development Goals.
+              - [2023-05-02]: Our project, [AfiHate](https://github.com/AfriHate/AfriHate), was selected as one of the [top 100 AI projects](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjmvNiZ8_D_AhVxTaQEHU0RCykQFnoECBoQAQ&url=https%3A%2F%2Fircai.org%2Fglobal-top-100-outstanding-projects%2Fresults%2F&usg=AOvVaw1wyZ7a53_wi2qDADuN4bFD&opi=89978449) that solve problems related to the 17 United Nations Sustainable Development Goals.
               - [2023-03-29]: I submitted my PhD thesis, waiting for defense.
     design:
        columns: '2'
