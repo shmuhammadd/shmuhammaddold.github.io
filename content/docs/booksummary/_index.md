@@ -14,8 +14,10 @@ type: book # Do not modify.
 
 ## Document everything!
 
-I am absent minded and forget alot of what I read. This notes serves as my second brain where I will write summary of books I read.
+I am absent minded and forget a lot of what I read. This notes serves as my second brain where I will write summary of books I read.
 
 ## Books
 
+I am reading the following books 
 - Getting what you came for
+- Creativity 
