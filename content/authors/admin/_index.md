@@ -92,7 +92,7 @@ email: 'shamsuddeen2004@gmail.com'
 highlight_name: true
 ---
 
-I am a PhD candidate at the [MAPi](https://mapi.map.edu.pt/pages/1) joint Doctoral Program in Computer Science, offered by the [University of Minho](https://www.uminho.pt/EN/Pages/default.aspx), the [University of Aveiro](https://www.ua.pt/#/), and the [University of Porto](https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=home).I am also an NLP researcher at  [LIAAD-INESTEC](https://www.inesctec.pt/en#intro) and [Masakhane](https://www.masakhane.io).
+I am a PhD candidate at the [MAPi](https://mapi.map.edu.pt/pages/1) joint Doctoral Program in Computer Science, offered by the [University of Minho](https://www.uminho.pt/EN/Pages/default.aspx), the [University of Aveiro](https://www.ua.pt/#/), and the [University of Porto](https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=home).I am also an NLP researcher at  [LIAAD-INESTEC](https://www.inesctec.pt/en#intro) and member of [Masakhane](https://www.masakhane.io).
 
 I received a Master’s degree from the University of Manchester, UK, and a Bachelor’s Degree from Bayero University, Kano, Nigeria. I am also a faculty member at the Faculty of Computer Science and Information Technology, Bayero University, Kano, Nigeria. I spend my time reading books and playing table tennis.
 
