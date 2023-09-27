@@ -34,7 +34,7 @@ sections:
        text: |
               - [2023-09-04]: I will present our paper at EPIA2023 (Portuguese Conference on Artificial Intelligence)
               
-              - [2023-07-04]: I will present our paper ([SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)](https://arxiv.org/pdf/2304.06845.pdf)) at SemEval2023 Workshop Co-located with ACL2023 Toronto Canada.
+              - [2023-07-04]: I will present our paper [SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)](https://arxiv.org/pdf/2304.06845.pdf)) at SemEval2023 Workshop Co-located with ACL2023 Toronto Canada.
               
               - [2023-06-11]: I will attend Africa Arrtifical Intelligence Conference Rewanda
               

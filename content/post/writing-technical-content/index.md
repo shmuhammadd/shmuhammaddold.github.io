@@ -7,6 +7,8 @@ draft: false
 ---
 
 
+
+
 > My mentor, [Sebastian Ruder](https://ruder.io) advises PhD students to write blogs and has this to say: "Having a blog is the single thing that has led to the most positive interactions throughout my PhD."[^1]
 
 [^1]: [10 Tips for Research and a PhD](https://ruder.io/10-tips-for-research-and-a-phd/index.html#6-write-a-blog-)
