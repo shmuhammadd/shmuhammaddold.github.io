@@ -95,10 +95,10 @@ highlight_name: true
 I am an Advanced Research Fellow and a Google DeepMind Academic Fellow at Imperial College London. I received my PhD from the University of Porto, Portugal, under the supervision of Professor Pavel Brazdil and Alipio Jorge. Prior to that, I earned an MS in Computer Science from the University of Manchester, UK, and a BSc in Computer Science from Bayero University, Kano, Nigeria. I also serve as a faculty member at the Faculty of Computing, Bayero University, Kano-Nigeria.
 
 I am deeply passionate about diversity and inclusion. To further this cause, I co-founded the [HausaNLP research group](https://hausanlp.github.io/), which focuses on promoting the low-resource Hausa language, and established the [Arewa Data Science Academy](https://arewadatascience.github.io) to support underserved students with skills in data science and machine learning. I am also an active member of [Masakhane](https://www.masakhane.io).
-
-<!-- > News: We are organizing the first SemEval for African low-resource languages.
-{{< cta cta_text="Visit AfriSenti-SemEval 2023 Shared task 12" cta_link="https://afrisenti-semeval.github.io" cta_new_tab="false" >}}
+<!-- 
+> News: We are organizing the first SemEval for African low-resource languages.
+{{< cta cta_text="Visit AfriSenti-SemEval 2023 Shared task 12" cta_link="https://afrisenti-semeval.github.io" cta_new_tab="false" >}} -->
 <style>
 body {
 text-align: justify}
-</style> -->
+</style>
