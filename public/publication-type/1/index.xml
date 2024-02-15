@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Shamsuddeen Hassan Muhammad</title>
+    <link>https://shmuhammadd.github.io/publication-type/1/</link>
+      <atom:link href="https://shmuhammadd.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shmuhammadd.github.io/media/icon_hu3e0f2d5aa6180df20bb553ed5c6fa57b_171034_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://shmuhammadd.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>SemEval 2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)</title>
+      <link>https://shmuhammadd.github.io/publication/muhammad-etal-2023-semeval/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/muhammad-etal-2023-semeval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AfricaNEWS: News Topic Classification for African languages</title>
+      <link>https://shmuhammadd.github.io/publication/adelani-2023-africanews/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/adelani-2023-africanews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AfriSenti-SemEval: Sentiment Analysis for Low-resource African Languages using Twitter Dataset</title>
+      <link>https://shmuhammadd.github.io/publication/muhammad-2023-afrisentisemeval/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/muhammad-2023-afrisentisemeval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain-Specific Lexicon-Based Sentiment Analysis using Contextual Shifter Patterns</title>
+      <link>https://shmuhammadd.github.io/publication/muhammad-2022-domain/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/muhammad-2022-domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HERDPhobia: A Dataset for Hate Speech Detection against Fulani Herdsmen in Nigeria</title>
+      <link>https://shmuhammadd.github.io/publication/aliyu-2022-herdphobia/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/aliyu-2022-herdphobia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separating Grains from the Chaff: Using Data Filtering to Improve Multilingual Translation for Low-Resourced African Languages</title>
+      <link>https://shmuhammadd.github.io/publication/abdulmumin-et-al-2022-wmt/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/abdulmumin-et-al-2022-wmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation</title>
+      <link>https://shmuhammadd.github.io/publication/adelani-etal-2022-thousand/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/adelani-etal-2022-thousand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hausa Visual Genome: A Dataset for Multi-Modal English to Hausa Machine Translation</title>
+      <link>https://shmuhammadd.github.io/publication/abdulmumin-et-al-2022-lrec/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/abdulmumin-et-al-2022-lrec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis</title>
+      <link>https://shmuhammadd.github.io/publication/muhammad-et-al-2022-lrec/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/muhammad-et-al-2022-lrec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus</title>
+      <link>https://shmuhammadd.github.io/publication/dblp-confinterspeech-meyer-acowwksolo-2/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/dblp-confinterspeech-meyer-acowwksolo-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition</title>
+      <link>https://shmuhammadd.github.io/publication/adelani-2022-masakhaner/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/adelani-2022-masakhaner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantity vs. Quality of Monolingual Source Data in Automatic Text Translation: Can It Be Too Little If It Is Too Good?</title>
+      <link>https://shmuhammadd.github.io/publication/9803137/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/9803137/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The African Stopwords Project: Curating Stopwords for African Languages</title>
+      <link>https://shmuhammadd.github.io/publication/emezue-2021-the/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/emezue-2021-the/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extending General Sentiment Lexicon to Specific Domains in (Semi-)Automatic Manner</title>
+      <link>https://shmuhammadd.github.io/publication/brazdil-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/brazdil-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Approach for Automatic Generation of Domain-Specific Sentiment Lexicon</title>
+      <link>https://shmuhammadd.github.io/publication/muhammad-2020-incremental/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/muhammad-2020-incremental/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

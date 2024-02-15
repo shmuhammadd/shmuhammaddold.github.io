@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Shamsuddeen Hassan Muhammad</title>
+    <link>https://shmuhammadd.github.io/publication-type/2/</link>
+      <atom:link href="https://shmuhammadd.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shmuhammadd.github.io/media/icon_hu3e0f2d5aa6180df20bb553ed5c6fa57b_171034_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://shmuhammadd.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>AfriQA: Cross-lingual Open-Retrieval Question Answering for African Languages</title>
+      <link>https://shmuhammadd.github.io/publication/ogundepo-2023-afriqa/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/ogundepo-2023-afriqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Afrisenti: A twitter sentiment analysis benchmark for african languages</title>
+      <link>https://shmuhammadd.github.io/publication/muhammad-2023-afrisenti/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/muhammad-2023-afrisenti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HaVQA: A Dataset for Visual Question Answering and Multimodal Research in Hausa Language</title>
+      <link>https://shmuhammadd.github.io/publication/parida-2023-havqa/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/parida-2023-havqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality at a glance: An audit of web-crawled multilingual datasets</title>
+      <link>https://shmuhammadd.github.io/publication/kreutzer-2022-quality/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/kreutzer-2022-quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Automatic Approaches for Exploiting Shifter Patterns in Domain-Specific Sentiment Analysis</title>
+      <link>https://shmuhammadd.github.io/publication/math-10183232/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/math-10183232/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MasakhaNER: Named Entity Recognition for African Languages</title>
+      <link>https://shmuhammadd.github.io/publication/adelani-etal-2021-masakhaner/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/adelani-etal-2021-masakhaner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on Machine Learning Techniques in Movie Revenue Prediction</title>
+      <link>https://shmuhammadd.github.io/publication/ahmad-2020-survey/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/ahmad-2020-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Massive open online courses: awareness, adoption, benefits and challenges in Sub-Saharan Africa</title>
+      <link>https://shmuhammadd.github.io/publication/muhammad-2016-massive/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/muhammad-2016-massive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

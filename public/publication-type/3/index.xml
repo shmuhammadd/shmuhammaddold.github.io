@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Shamsuddeen Hassan Muhammad</title>
+    <link>https://shmuhammadd.github.io/publication-type/3/</link>
+      <atom:link href="https://shmuhammadd.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 06:42:55 +0000</lastBuildDate>
+    <image>
+      <url>https://shmuhammadd.github.io/media/icon_hu3e0f2d5aa6180df20bb553ed5c6fa57b_171034_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://shmuhammadd.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Combining Symbolic and Deep Learning Approaches for Sentiment Analysis</title>
+      <link>https://shmuhammadd.github.io/publication/muhammad-brazdil-jorge/</link>
+      <pubDate>Sat, 01 Jul 2023 06:42:55 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/muhammad-brazdil-jorge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HausaNLP at SemEval-2023 Task 10: Transfer Learning, Synthetic Data and Side-information for Multi-level Sexism Classification</title>
+      <link>https://shmuhammadd.github.io/publication/hausanlp-semeval-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 06:42:53 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/hausanlp-semeval-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HaVQA: A Dataset for Visual Question Answering and Multimodal Research in Hausa Language</title>
+      <link>https://shmuhammadd.github.io/publication/havqa-2023/</link>
+      <pubDate>Sat, 01 Jul 2023 06:42:53 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/havqa-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Symbolic and Deep Learning Techniques for Explainable Sentiment Analysis</title>
+      <link>https://shmuhammadd.github.io/publication/muhammad-2023-leveraging/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://shmuhammadd.github.io/publication/muhammad-2023-leveraging/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

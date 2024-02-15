@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://shmuhammadd.github.io/sitemap.xml
